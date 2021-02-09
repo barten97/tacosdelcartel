@@ -1,2 +1,2 @@
 # tacosdelcartel
-Github Pages
+GitHub Pages
