@@ -68,7 +68,7 @@
       }
     ],
     "uniqCompNum": 46,
-    "versionPublish": "5.3.0",
+    "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/tdc-icon-128x173.png",
     "cssOptimize": true,
